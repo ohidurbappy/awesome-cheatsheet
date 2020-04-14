@@ -1,4 +1,5 @@
-<img src="https://cdn.rawgit.com/ohidurbappy/awesome-cheatsheet/master/awesome.svg" alt="awesome" width="120" align="right" >
+<img src="https://raw.githubusercontent.com/ohidurbappy/awesome-cheatsheet/master/awesome.svg" alt="awesome" width="120" align="right" >
+
 # Awesome Cheatsheet 📚
 
 
