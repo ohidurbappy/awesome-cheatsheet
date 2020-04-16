@@ -6,6 +6,8 @@
 > 📚 Awesome cheatsheet for popular programming languages, frameworks and  development tools. They include everything you should know in one single file.
 
 
+<img src="https://raw.githubusercontent.com/ohidurbappy/awesome-cheatsheet/master/_graphics/awesome-cheatsheet-cover.svg?sanitize=true" alt="awesome" width="100%">
+
 
 ## 🤔 Why Awesome Cheatsheet?
 
