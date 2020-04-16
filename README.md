@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ohidurbappy/awesome-cheatsheet/master/awesome.svg?sanitize=true" alt="awesome" width="120" align="right" >
+<img src="https://raw.githubusercontent.com/ohidurbappy/awesome-cheatsheet/master/_graphics/awesome.svg?sanitize=true" alt="awesome" width="120" align="right" >
 
 # Awesome Cheatsheet 📚
 
