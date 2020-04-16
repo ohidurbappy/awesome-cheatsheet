@@ -52,6 +52,8 @@ As I learn new languages, frameworks and tools, often forget the old things. To 
 #### Basics
 
 - [HTML5](web/html5.html)
+- [Markdown](web/markdown.md)
+
 
 #### Frameworks
 
@@ -101,7 +103,7 @@ As I learn new languages, frameworks and tools, often forget the old things. To 
 
 ## 🙌🏼 How to Contribute?
 
-You are most welcome to contribute. Make cheatsheet for your favorite programming language, framework or development tools and make a pull request. I am gonna merge it after reviewing.
+You are most welcome to contribute. Make cheat sheet for your favorite programming language, framework or development tools and make a pull request. I am gonna merge it after reviewing.
 
-[^Thanks]: 
+**Thanks**
 
