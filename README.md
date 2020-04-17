@@ -28,10 +28,13 @@ As I learn new languages, frameworks and tools, often forget the old things. To 
 ### 📃 Programming Languages
 
 - [C](programming/C.txt)
-- [C++](programming/CPP.cpp)
+- [C++](programming/CPP.md)
 - [C#](programming/C%23.txt)
-- [PHP](programming/php.php)
 - [JavaScript](programming/javascript.js)
+- [Objective-C](programming/objective-c.md)
+- [PHP](programming/php.php)
+- [Swift](programming/swift.md)
+
 
 
 #### PHP
@@ -39,7 +42,8 @@ As I learn new languages, frameworks and tools, often forget the old things. To 
 - [Laravel](programming/laravel.php)
 
 #### Python
-
+- [Python](programming/python.md)
+- [Pysheet](programming/pysheet.md)
 - [Django](programming/django.py)
 
 #### Javascript
