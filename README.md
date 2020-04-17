@@ -28,6 +28,7 @@ As I learn new languages, frameworks and tools, often forget the old things. To 
 ### 📃 Programming Languages
 
 - [C](programming/C.txt)
+- [C++](programming/CPP.cpp)
 - [C#](programming/C%23.txt)
 - [PHP](programming/php.php)
 - [JavaScript](programming/javascript.js)
